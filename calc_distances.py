@@ -237,4 +237,4 @@ for date in date_list:
     wells.update(list(well_ids))
     i += 1
 
-well_df.to_csv('well_distances/2018-11-20/well_distances.csv')
+well_df.to_csv('well_distances.csv')
